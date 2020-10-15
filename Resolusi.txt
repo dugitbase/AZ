@@ -13,3 +13,4 @@ Metoda pencapaian usaha
 - Tidak menunggu kesiapan orang lain
 - Selalu catat planing dan progres mingguan
 - Evaluasi setiap minggu
+- Tambah data lagi saja
